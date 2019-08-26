@@ -1,0 +1,3 @@
+E:\GitHub\AspNetCore.MyLibrary\MyLibrary\MyLibrary.WebApi\obj\Debug\netcoreapp2.2\MyLibrary.WebApi.csproj.CoreCompileInputs.cache
+E:\GitHub\AspNetCore.MyLibrary\MyLibrary\MyLibrary.WebApi\obj\Debug\netcoreapp2.2\MyLibrary.WebApi.AssemblyInfoInputs.cache
+E:\GitHub\AspNetCore.MyLibrary\MyLibrary\MyLibrary.WebApi\obj\Debug\netcoreapp2.2\MyLibrary.WebApi.AssemblyInfo.cs
